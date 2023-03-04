@@ -1,0 +1,30 @@
+body {
+  background-color: #FEECEC;
+}
+
+h1 {
+  color: #FF69B4;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 2rem;
+  text-shadow: 2px 2px #FFC0CB;
+}
+
+p {
+  color: #8A2BE2;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+a {
+  color: #FF69B4;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #8A2BE2;
+  transform: scale(1.2);
+}
